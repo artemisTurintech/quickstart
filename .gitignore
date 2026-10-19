@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+artemis_results.json
+artemis_results.json.tmp
